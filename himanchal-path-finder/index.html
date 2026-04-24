@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Himachal Path Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="main">
+
+    <!-- LEFT SIDE (FORM) -->
+    <div class="card">
+        <h1>🚗 Himachal Path Finder</h1>
+
+        <label>From:</label>
+        <select id="source"></select>
+
+        <label>To:</label>
+        <select id="destination"></select>
+
+        <button onclick="findPath()">Find Shortest Path</button>
+
+        <!-- Loader -->
+        <div id="loader" class="loader hidden"></div>
+
+        <!-- Result -->
+        <div id="result"></div>
+    </div>
+
+    <!-- RIGHT SIDE (MAP) -->
+    <div class="map-container">
+        <img src="map.jpg" id="map">
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
