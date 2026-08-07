@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Arsh-90/CC_Sem-4/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Arsh-90/CC_Sem-4/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Arsh-90/CC_Sem-4/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Arsh-90/CC_Sem-4/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
