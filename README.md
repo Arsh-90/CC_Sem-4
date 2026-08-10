@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arsh-90/CC_Sem-4/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Arsh-90/CC_Sem-4/tree/master/0198-house-robber) |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arsh-90/CC_Sem-4/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Arsh-90/CC_Sem-4/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arsh-90/CC_Sem-4/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Arsh-90/CC_Sem-4/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Arsh-90/CC_Sem-4/tree/master/0860-lemonade-change) |
 ## Two Pointers
