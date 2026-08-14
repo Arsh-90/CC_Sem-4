@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arsh-90/CC_Sem-4/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Arsh-90/CC_Sem-4/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Arsh-90/CC_Sem-4/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arsh-90/CC_Sem-4/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Arsh-90/CC_Sem-4/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arsh-90/CC_Sem-4/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arsh-90/CC_Sem-4/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Arsh-90/CC_Sem-4/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/Arsh-90/CC_Sem-4/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arsh-90/CC_Sem-4/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Arsh-90/CC_Sem-4/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
