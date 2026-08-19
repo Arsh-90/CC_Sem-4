@@ -1,0 +1,38 @@
+class Solution {
+    int [][]dp;
+    int fun(int []a,int n ,int i ,int k ,int[][]dp){
+        if(i==n)
+        return 0;
+
+        if(k==0)
+        return 0;
+
+        if(dp[i][k]!=-1)
+        return dp[i][k];
+
+        if(k%2==0 ){
+            int c1=fun(a,n,i+1,k-1,dp)-a[i];
+            int c2=fun(a,n,i+1,k,dp);
+            return dp[i][k]= Math.max(c1,c2);
+        }
+        else{
+            int c1=fun(a,n,i+1,k-1,dp)+a[i];
+            int c2=fun(a,n,i+1,k,dp);
+
+            return dp[i][k]= Math.max(c1,c2);
+        }
+        
+    }
+    public int maxProfit(int k , int[] prices) {
+        int n =prices.length;
+        
+        dp= new int [n+1][2*k+1];
+
+        for(int[] rows :dp)
+        Arrays.fill(rows,-1);
+
+        int gain =fun(prices,n,0,2*k,dp);
+        return gain;
+        
+    }
+}
