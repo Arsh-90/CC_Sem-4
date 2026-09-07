@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arsh-90/CC_Sem-4/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arsh-90/CC_Sem-4/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0321-create-maximum-number](https://github.com/Arsh-90/CC_Sem-4/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Arsh-90/CC_Sem-4/tree/master/0455-assign-cookies) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arsh-90/CC_Sem-4/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Arsh-90/CC_Sem-4/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Arsh-90/CC_Sem-4/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Arsh-90/CC_Sem-4/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Arsh-90/CC_Sem-4/tree/master/0904-fruit-into-baskets) |
 ## Stack
@@ -118,9 +120,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arsh-90/CC_Sem-4/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Arsh-90/CC_Sem-4/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arsh-90/CC_Sem-4/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
