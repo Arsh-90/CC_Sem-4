@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/Arsh-90/CC_Sem-4/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Arsh-90/CC_Sem-4/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arsh-90/CC_Sem-4/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Arsh-90/CC_Sem-4/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Arsh-90/CC_Sem-4/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Arsh-90/CC_Sem-4/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arsh-90/CC_Sem-4/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Arsh-90/CC_Sem-4/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Arsh-90/CC_Sem-4/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arsh-90/CC_Sem-4/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
