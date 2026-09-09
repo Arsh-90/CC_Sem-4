@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arsh-90/CC_Sem-4/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Arsh-90/CC_Sem-4/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arsh-90/CC_Sem-4/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Arsh-90/CC_Sem-4/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arsh-90/CC_Sem-4/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Arsh-90/CC_Sem-4/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arsh-90/CC_Sem-4/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arsh-90/CC_Sem-4/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arsh-90/CC_Sem-4/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arsh-90/CC_Sem-4/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Arsh-90/CC_Sem-4/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh-90/CC_Sem-4/tree/master/0977-squares-of-a-sorted-array) |
