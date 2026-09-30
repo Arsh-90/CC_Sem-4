@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Arsh-90/CC_Sem-4/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Arsh-90/CC_Sem-4/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh-90/CC_Sem-4/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Arsh-90/CC_Sem-4/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Arsh-90/CC_Sem-4/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arsh-90/CC_Sem-4/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Arsh-90/CC_Sem-4/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
